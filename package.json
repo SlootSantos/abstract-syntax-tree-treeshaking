@@ -1,0 +1,23 @@
+{
+  "name": "abstract-syntax-tree-treeshaking",
+  "version": "1.0.0",
+  "description": "Show case to how treeshaking works in its implementatino",
+  "main": "shake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlootSantos/abstract-syntax-tree-treeshaking.git"
+  },
+  "author": "Flo Sloot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlootSantos/abstract-syntax-tree-treeshaking/issues"
+  },
+  "homepage": "https://github.com/SlootSantos/abstract-syntax-tree-treeshaking#readme",
+  "dependencies": {
+    "escodegen": "^1.9.1",
+    "esprima": "^4.0.0"
+  }
+}
